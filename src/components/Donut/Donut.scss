@@ -1,0 +1,27 @@
+.containerChart{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    opacity: 0;
+    transition:  opacity 500ms ease-out 300ms;
+    z-index: 100;
+}
+
+.containerChart.active{
+    opacity: 1;
+}
+
+
+.label1{
+    color:#1435a0;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.label2{
+    color:#1435a0;
+    font-weight: bold;
+    font-size: 15px;
+
+}
+
