@@ -9,7 +9,7 @@ const Step1 =()=>{
             <form action="" className="row w-100" >
                 <div className="col-12">
                     <label htmlFor="">Email</label>
-                    <input placeholder="Exmaple@123.com" type="email" name="" id="" />
+                    <input placeholder="Examaple@123.com" type="email" name="" id="" />
                 </div>
             </form>
         </>
